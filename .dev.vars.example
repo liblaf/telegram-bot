@@ -1,0 +1,3 @@
+# -*- mode: dotenv; -*-
+
+BOT_TOKEN='***'

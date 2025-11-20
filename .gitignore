@@ -1,0 +1,33 @@
+# ref: <https://github.com/github/gitignore/blob/main/Node.gitignore>
+
+# shared
+*.log
+*.log.*
+playground/
+
+# Coverage directory
+coverage/
+*.lcov
+
+# Dependency directories
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.project
+!.env.vault
+
+# Nuxt.js build / generate output
+dist/
+
+# Test Results
+junit.xml
+
+# Cloudflare
+.dev.vars
+.wrangler/
+worker-configuration.d.ts

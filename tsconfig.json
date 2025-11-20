@@ -1,0 +1,6 @@
+{
+  "extends": "@liblaf/config/tsconfig",
+  "compilerOptions": {
+    "types": ["./worker-configuration.d.ts"]
+  }
+}

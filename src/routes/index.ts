@@ -1,0 +1,1 @@
+export { newHonoApp } from "./main";
