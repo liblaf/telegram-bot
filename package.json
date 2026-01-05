@@ -41,7 +41,7 @@
     "@grammyjs/commands": "^1.2.0",
     "@scalar/hono-api-reference": "^0.9.25",
     "@scalar/openapi-to-markdown": "^0.3.4",
-    "chanfana": "^2.8.3",
+    "chanfana": "^3.0.0",
     "grammy": "^1.38.4",
     "hono": "^4.10.6",
     "zod": "^4.1.12"
