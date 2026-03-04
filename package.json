@@ -39,8 +39,8 @@
   },
   "dependencies": {
     "@grammyjs/commands": "^1.2.0",
-    "@scalar/hono-api-reference": "^0.9.25",
-    "@scalar/openapi-to-markdown": "^0.3.4",
+    "@scalar/hono-api-reference": "^0.10.0",
+    "@scalar/openapi-to-markdown": "^0.4.0",
     "chanfana": "^3.0.0",
     "grammy": "^1.38.4",
     "hono": "^4.10.6",
